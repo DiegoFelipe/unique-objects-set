@@ -1,6 +1,6 @@
 {
   "name": "unique-objects-set",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ensure that all objects added to a JS Set are unique",
   "main": "dist/index.ts",
   "types": "dist/index.d.ts",
