@@ -9,13 +9,13 @@ A modern TypeScript utility that ensures all objects inside a `Set` are **truly 
 ## 📦 Installation
 
 ```bash
-npm install @diegofnib/unique-object-set
+npm install unique-object-set
 ```
 
 Or with Yarn:
 
 ```bash
-yarn add @diegofnib/unique-object-set
+yarn add unique-object-set
 ```
 
 ---
