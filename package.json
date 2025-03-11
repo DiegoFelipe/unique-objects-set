@@ -4,6 +4,10 @@
   "description": "Ensure that all objects added to a JS Set are unique",
   "main": "dist/index.ts",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DiegoFelipe/unique-objects-set.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
